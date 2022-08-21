@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.imgbg img{
+    width: 100%;
+}
+.imgcontent {
+    
+}
+
+section.promo {
+    background-image: url('../assets/paster.png') ;
+    background-size: cover;
+    height: 100vh;
+}
+
+.imgcontent img {
+    width: 50%;
+    position: relative;
+    top: 25vh;
+    left: 25%;
+}
+footer {
+    margin-top: -10px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    padding: 100px;
+}
+
+.container .info {
+    width: 200px;
+    margin: 0 100px 0 100px;
+}
+
+.orange {
+    color: #F16D08;
+}
+
+.maps{
+    background-size: cover;
+}
