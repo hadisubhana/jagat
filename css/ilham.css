@@ -1,0 +1,27 @@
+.produk {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-image: url("../assets/produk.png");
+  background-size: cover;
+}
+.card .card-body {
+  background-color: #283341;
+}
+.card-body p {
+  font-size: 14px;
+}
+.card img {
+  width: 100%;
+  height: 10rem;
+  border-radius: 0;
+}
+.btn-menu {
+  height: 50px;
+  background-color: #f16d08;
+  color: white;
+  border: none;
+  letter-spacing: 4px;
+  padding: 15px 20px 15px 20px;
+  font-size: 14px;
+}
