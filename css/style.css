@@ -12,7 +12,12 @@ section#promo-bem {
   background-image: url("../assets/paster.png");
   background-size: cover;
   background-position: center;
+  position: relative;
 
+}
+
+.imgpromo-bem {
+  margin-top: 15%;
 }
 
 footer#footer-bem {
