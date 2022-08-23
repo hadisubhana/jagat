@@ -11,10 +11,8 @@ body{
     overflow-x: hidden;
 }
 
-.bg-awal img{
-    max-width: 100%;
-    height: auto;
-    display: inline;
+.head-sec{
+  
 }
 
 /* .text_head{
@@ -30,39 +28,6 @@ body{
     opacity: 0.4;
 } */
 
-.text_head{
-    position: absolute;
-    top: 50px;
-    left: 110px;
-    display: inline;
-}
-
-.text_head img{
-    width: 491.87px;
-}
-
-.desk_head{
-    width: 710px;
-    margin-top: 50px;
-}
-
-.desk_head p{
-    color: white;
-    font-size: 18px;
-    font-family: 'Poppins', sans-serif;
-}
-
-.btn_pesan{
-    margin-top: 50px;
-}
-
-.btn_pesan button{
-    padding: 20px 50px 20px 50px;
-    font-size: 20px;
-    font-weight: 400;
-    color: white;
-    background-color: #F16D08;
-}
 
 /* .text_head span{
     z-index: 1;
