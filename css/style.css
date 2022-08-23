@@ -107,7 +107,11 @@ footer#footer-bem {
 .ml-bem {
   margin-left: 15%;
 }
-
+.bem-position{
+  position: absolute;
+  top: 150%;
+  left: 50%;
+}
 
 /* ============================== Hadi CSS ====================== */
 .benefit {
