@@ -19,6 +19,86 @@ footer#footer-bem {
   background-color: black;
 }
 
+.head_secanas{
+  display: block;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-bottom: 0px;
+}
+
+.headtextanas{
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  width: 400px;
+  height: auto;
+  
+}
+
+.headtextanas p{
+  display: block;
+  color: white;
+  font-size: 18px;
+  width: 700px;
+}
+
+.headtextanas button{
+  background-color: #F16D08;
+  width: 238px;
+  height: 70px;
+  color: white;
+  font-weight: 500;
+}
+
+
+
+/* .text_head{
+    position: absolute;
+    top: 30px;
+    left: 10px;
+    display: inline;
+    font-size: 100px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    transform: matrix(1,0,0,1,187.9319,115.3802) rotate(-10deg);
+    font-weight: 200;
+    opacity: 0.4;
+} */
+
+.text_head{
+    position: absolute;
+    top: 50px;
+    left: 110px;
+    display: inline;
+}
+
+.text_head img{
+    width: 491.87px;
+}
+
+.desk_head{
+    width: 710px;
+    margin-top: 50px;
+}
+
+.desk_head p{
+    color: white;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn_pesan{
+    margin-top: 50px;
+}
+
+.btn_pesan button{
+    padding: 20px 50px 20px 50px;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    background-color: #F16D08;
+}
+
 .sosial-bem img {
   width: 40px;
   height: 40px;
@@ -61,4 +141,7 @@ footer#footer-bem {
     color: white;
     text-shadow: 5px 5px 10px black;
 }
-/* ============================== End Of Hadi CSS ====================== */
+
+/* .text_head span{
+    z-index: 1;
+} */
